@@ -1,6 +1,5 @@
 from flask import Flask
 from flask import render_template
-from pyroute2 import IPDB
 import argparse
 import netifaces
 from pathlib import Path
