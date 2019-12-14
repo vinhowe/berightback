@@ -2,7 +2,7 @@ MSG=${1:-"I'll be right back!"}
 PAGE_PORT=${2:-8080}
 
 cd ~/dev/webcam_shower/ && source venv/bin/activate
-python webcam.py -m "$MSG" &
+python berightback.py -m "$MSG" &
 firefox -new-instance -P "webcam" --kiosk "http://0.0.0.0:$PAGE_PORT" &
 sleep .5 && xdotool search --sync --onlyvisible --name "$MSG" windowactivate key F11
 xtrlock &
