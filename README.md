@@ -1,5 +1,7 @@
 # berightback
 
+<img src="/demo_images/fullbleed.png" width="80%"></img>
+
 Deter theft by showing people that you're watching them.
 
 Runs on Debian-based linux under Python 3.7.
