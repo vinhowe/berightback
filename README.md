@@ -4,7 +4,7 @@
 
 Deter theft by showing people that you're watching them.
 
-Runs on Debian-based linux under Python 3.7.
+Runs on Debian-based Linux under Python 3.7.
 
 ## Setup
 
