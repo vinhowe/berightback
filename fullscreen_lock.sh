@@ -9,7 +9,7 @@ xtrlock &
 LOCK_PID=$!
 wait $LOCK_PID
 pkill -P $$
-pgrep -f -a berightback
+pkill -f berightback
 pkill motion
 reset
 clear
