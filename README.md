@@ -32,7 +32,7 @@ For locking your screen while showing Firefox in kiosk mode. `xtrlock` will prev
 
 `$ sudo apt install xtrlock`
 
-You'll also need to update (or install) Firefox to version 71 for to run `fullscreen_lock.sh`.
+You'll also need to update (or install) Firefox to version 71 to run `fullscreen_lock.sh`.
 
 ## Running
 
