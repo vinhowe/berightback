@@ -28,7 +28,7 @@ Install requirements with `$ pip install -r requirements.txt`.
 
 #### `xtrlock`
 
-For locking your screen while showing Firefox in kiosk mode. `xtrlock` will prevent interacting with the desktop until password is correctly input followed a return.
+For locking your screen while showing Firefox in kiosk mode. `xtrlock` will prevent interacting with the desktop until password is correctly inputted followed a return.
 
 `$ sudo apt install xtrlock`
 
